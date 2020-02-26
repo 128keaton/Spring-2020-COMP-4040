@@ -3,7 +3,7 @@ import org.parboiled.Rule;
 import org.parboiled.annotations.BuildParseTree;
 
 @BuildParseTree
-public class NameParser extends BaseParser<Object> {
+public class FullNameParser extends BaseParser<Object> {
     Rule FullName() {
         return Sequence(
                 Name(),

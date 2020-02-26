@@ -11,7 +11,7 @@ import java.util.Scanner;
 @SuppressWarnings("rawtypes")
 public class Main {
     public static void main(String[] args) {
-        NameParser nameParser = Parboiled.createParser(NameParser.class);
+        FullNameParser nameParser = Parboiled.createParser(FullNameParser.class);
 
         while (true) {
             System.out.print("Please input your name (single RETURN to exit): ");
