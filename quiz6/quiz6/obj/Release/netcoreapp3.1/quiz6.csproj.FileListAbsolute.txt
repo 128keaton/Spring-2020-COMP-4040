@@ -1,0 +1,10 @@
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/bin/Release/netcoreapp3.1/quiz6
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/bin/Release/netcoreapp3.1/quiz6.deps.json
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/bin/Release/netcoreapp3.1/quiz6.runtimeconfig.json
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/bin/Release/netcoreapp3.1/quiz6.runtimeconfig.dev.json
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/bin/Release/netcoreapp3.1/quiz6.dll
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/bin/Release/netcoreapp3.1/quiz6.pdb
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/obj/Release/netcoreapp3.1/quiz6.AssemblyInfoInputs.cache
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/obj/Release/netcoreapp3.1/quiz6.AssemblyInfo.cs
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/obj/Release/netcoreapp3.1/quiz6.dll
+/Users/keatonburleson/Documents/School/Spring 2020/COMP 4040/quiz6/quiz6/obj/Release/netcoreapp3.1/quiz6.pdb
