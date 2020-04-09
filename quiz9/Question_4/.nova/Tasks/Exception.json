@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "python3 exception.py"
+    }
+  },
+  "identifier" : "8A39D855-F898-4076-A994-0D4BA63AC2EE",
+  "openLogOnRun" : "start"
+}

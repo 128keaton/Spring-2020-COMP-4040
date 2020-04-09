@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "python3 read_csv.py"
+    }
+  },
+  "identifier" : "76ECC94B-50FB-4AEA-B791-E5019EABFE3E",
+  "openLogOnRun" : "start"
+}
