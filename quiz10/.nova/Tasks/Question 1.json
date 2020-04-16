@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "cd question1 && python3 question1.py"
+    }
+  },
+  "identifier" : "94F90BB7-353E-4D70-A7B5-35CCB5D59FE2",
+  "openLogOnRun" : "start"
+}
