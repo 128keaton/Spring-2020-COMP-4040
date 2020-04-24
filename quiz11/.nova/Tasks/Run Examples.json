@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "python3 dataframe_samples.py"
+    }
+  },
+  "identifier" : "C4C9D61A-B68C-49FC-A8C4-26ACF9A41D80",
+  "openLogOnRun" : "start"
+}
